@@ -1,0 +1,14 @@
+.theme-popup,
+#theme-list {
+    display: none;
+    opacity: 0;
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
+
+.icon-bullet {
+    font-size: 2rem;
+    vertical-align: middle;
+    margin-right: 1rem;
+    line-height: auto;
+}

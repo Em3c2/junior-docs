@@ -1,0 +1,31 @@
+# Summary
+
+- [Introducción](README.md)
+    - [Entrar a IT](./guias/entrar-a-it/README.md)
+      - [Consejos para aprender programación](./guias/entrar-a-it/como-aprender-programacion.md)
+      - [Recursos gratuitos](./guias/entrar-a-it/recursos-gratuitos.md)
+
+# Proximamente...
+
+- [Guias]()
+  - [Como conseguir trabajo]()
+    - [Redactar un CV]()
+  - [Aprender programacion desde un smartphone]()
+  - [Tener una marca personal]()
+  - [Aprender inglés gratis]()
+  - [Conseguir experiencia laboral]()
+- [Ejercicios]()
+  - [Contar mi historia]()
+  - [React artesanal]()
+  - [Promesas artesanales]()
+  - [Web components con vanilla JS]()
+- [Teoría]()
+  - [Diferencia Framework vs Librería]()
+  - [No reinventar la rueda]()
+  - [Knowledge managment]()
+  - [Método Friedman]()
+  - [Árboles binarios]()
+  - [Algoritmos de ordenamiento]()
+  - [Complejidad algorítmica]()
+- [Referencias]()
+  - [Preguntas entrevistas]()

@@ -3,10 +3,10 @@ authors = ["em3c2"]
 language = "es"
 multilingual = false
 src = "src"
-title = "Junior doc"
+title = "Junior docs"
 
 [output.html]
 additional-css = ["custom.css"]
 additional-js = ["themeToggle.js"]
-git-repository-url = "https://github.com/rust-lang/mdBook"
+git-repository-url = "https://github.com/junior-docs"
 git-repository-icon = "fa-github"

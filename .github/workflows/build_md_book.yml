@@ -1,9 +1,6 @@
 name: Build mdBook and open PR to main
 
 on:
-  push:
-    branches: ["main"]
-
   workflow_dispatch:
 
 permissions:

@@ -6,7 +6,7 @@
 
 ## Resumen 🇪🇸
 
-Esta documentación tiene como objetivo proporcionar conocimientos actualizados **en español** para aquellos que están comenzando y creciendo en el campo de la TI. Está estructurada de acuerdo con el framework [diataxis](https://diataxis.fr/), ofreciendo cuatro tipos de contenido: guías prácticas, ejercicios interactivos, materiales de referencia y teoría detallada
+Esta documentación tiene como objetivo proporcionar conocimientos actualizados **en español** para aquellos que están empezando en IT. Está estructurada de acuerdo con el framework [diataxis](https://diataxis.fr/), ofreciendo cuatro tipos de contenido: guías prácticas, ejercicios interactivos, materiales de referencia y teoría detallada
 
 ## Summary 🇺🇸
 

@@ -8,5 +8,5 @@ title = "Junior docs"
 [output.html]
 additional-css = ["custom.css"]
 additional-js = ["themeToggle.js"]
-git-repository-url = "https://github.com/junior-docs"
+git-repository-url = "https://github.com/Em3c2/junior-docs"
 git-repository-icon = "fa-github"
